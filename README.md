@@ -5,6 +5,6 @@ This folder contains the final assignment of the coursera "getting and cleaning 
 - The raw data can be retrieved here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 # Files
-Codebook.md explains the raw data, variables and the process of cleaning and tidying the data
-run_analysis.R contains the R script used in order to clean and tidy the data
-finalDataset.txt contains the final dataset
+1. Codebook.md explains the raw data, variables and the process of cleaning and tidying the data
+2. run_analysis.R contains the R script used in order to clean and tidy the data
+3. finalDataset.txt contains the final dataset
